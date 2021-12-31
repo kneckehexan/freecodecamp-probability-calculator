@@ -1,6 +1,5 @@
 import copy
 import random
-from collections import Counter
 # Consider using the modules imported above.
 
 class Hat:
